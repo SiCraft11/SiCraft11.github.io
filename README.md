@@ -1,4 +1,3 @@
-# SiCraft11.github.io
 <!DOCTYPE html>
 <html lang="de">
 <head>
